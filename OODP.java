@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class hotel
+public class OODP
 {
-    public static void main()
+    public static void main(String args[])
     {
-        System.ot.print("lund");
+        System.out.print("lund");
     }
 
 }
