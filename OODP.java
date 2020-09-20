@@ -8,3 +8,6 @@ public class OODP
     }
 
 }
+class Bill
+{
+}
