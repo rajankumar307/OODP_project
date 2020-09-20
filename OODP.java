@@ -4,7 +4,7 @@ public class OODP
 {
     public static void main(String args[])
     {
-        System.out.print("lund");
+        System.out.print("sdfsdf");
     }
 
 }
